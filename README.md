@@ -1,5 +1,4 @@
 # orcas_md
-# orcas_md
 
 Guia para montar uma simulação de hélice naval no Unreal Engine com parâmetros ambientais e análise fluido/hidrodinâmica.
 
